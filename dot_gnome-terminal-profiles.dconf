@@ -1,0 +1,15 @@
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(31,35,53)'
+background-transparency-percent=2
+bold-color-same-as-fg=true
+bold-is-bright=true
+cursor-background-color='rgb(192,202,245)'
+cursor-foreground-color='rgb(180,249,248)'
+font='0xProto Nerd Font 12'
+foreground-color='rgb(192,202,245)'
+highlight-background-color='rgb(84,92,126)'
+highlight-colors-set=true
+highlight-foreground-color='rgb(180,249,248)'
+palette=['rgb(3,3,3)', 'rgb(197,59,83)', 'rgb(79,214,190)', 'rgb(255,199,119)', 'rgb(255,117,127)', 'rgb(255,255,255)', 'rgb(187,154,247)', 'rgb(255,255,255)', 'rgb(157,124,216)', 'rgb(255,158,100)', 'rgb(157,124,216)', 'rgb(255,158,100)', 'rgb(122,162,247)', 'rgb(192,97,203)', 'rgb(187,154,247)', 'rgb(125,207,255)']
+use-theme-transparency=false
+use-transparent-background=true
